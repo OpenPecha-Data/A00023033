@@ -1,0 +1,22 @@
+id: A00023033
+title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+type: translation
+pechas:
+- I100A941B
+- IDD1C154B
+- I44434AD9
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:01:17.578007
+  last_modified_at: 2023-01-04 12:01:17.578015
+  collections:
+  - Jamgön Kongtrul Lodrö Thaye Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I100A941B/8202: 49F5
+  IDD1C154B/D180: 49F5
+  I44434AD9/ABD6: 49F5
